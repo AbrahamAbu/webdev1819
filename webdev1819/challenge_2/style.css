@@ -26,6 +26,7 @@ background-color
 }
 .verdana
 {
+    
     font-family:verdana;
 }
 .georgia
@@ -48,6 +49,18 @@ p3
 {
 color:blue;
 }
-
-
-
+p4{
+    color:blue;
+}
+.red-text
+{
+    color:red;
+}
+.white-text
+{
+    color:white;
+}
+.blue-text
+{
+ color:blue;
+}
