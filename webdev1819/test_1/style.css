@@ -1,0 +1,47 @@
+.orange{
+    color:orange;
+}
+body {
+  font-family: Helvetica;
+}
+.red{
+    color:red;
+}
+a {
+text-decoration: none;
+}
+.everything {
+    width: 300px;
+    border: 3px solid green;
+    padding: 25px;
+    margin: 25px;
+    border-style:dotted;
+}
+.specific{
+    width: 300px;
+   
+    padding: 25px;
+    margin: 25px;
+    background-color:#8FD8D8;
+    box-shadow: 10px 10px;
+    border-radius:25px;
+
+}
+.removestyle{
+    list-style:none;
+}
+.pink{
+    background-color:pink;
+}
+.aqua
+{
+    background-color:aqua;
+}
+.lemon
+{
+    background-color:yellow;
+}
+.grape
+{
+    background-color:purple;
+}
