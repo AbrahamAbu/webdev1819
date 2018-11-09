@@ -11,14 +11,14 @@ a {
 text-decoration: none;
 }
 .everything {
-    width: 300px;
+    width: 700px;
     border: 3px solid green;
     padding: 25px;
     margin: 25px;
     border-style:dotted;
 }
 .specific{
-    width: 300px;
+    width: 700px;
    
     padding: 25px;
     margin: 25px;
@@ -44,4 +44,50 @@ text-decoration: none;
 .grape
 {
     background-color:purple;
+}
+.picture{
+    background-image:url(http://goo.gl/e2x4ZK);
+    background-repeat:no-repeat;
+}
+.specificc {
+    width: 700px;
+    border: 3px solid green;
+    padding: 100px;
+    margin: 25px;
+    border-style:dotted;
+}
+.oneline {
+  white-space: nowrap;
+}
+
+
+.STAYINONELINE {
+    width: 50px;
+   display:inline-block;
+    margin:px;
+    white-space: nowrap;
+}
+.STAYINONELINE1 {
+    width: 40px;
+    display:inline-block;
+    margin: px;
+    white-space: nowrap;
+}
+.STAYINONELINE2 {
+    width: 5px;
+   display:inline-block;
+    margin: px;
+    white-space: nowrap;
+}
+.STAYINONELINE3 {
+    width: 160px;
+     display:inline-block;
+    margin: 25px;
+    white-space: nowrap;
+}
+.STAYINONELINE4 {
+    width: 190px;
+     display:inline-block;
+    margin: px;
+    white-space: nowrap;
 }
