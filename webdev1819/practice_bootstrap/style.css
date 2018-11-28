@@ -4,8 +4,13 @@
 }
 body {
     background-color:#1a1a1D 
+    font-family:Arial;
 }
 .jumbotron
 {
-    background-color:black;
+    color:red;
+}
+.form-group
+{
+    color:red;
 }
