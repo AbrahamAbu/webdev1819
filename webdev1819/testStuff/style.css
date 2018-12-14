@@ -1,0 +1,103 @@
+#init {
+    background-color: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+body {
+    background-color: #f6f6f6;
+}
+#init {
+    background-color: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+#toprow {
+    height: 290px;
+}
+#bigbox {
+    width: 100px;
+    height: 145px;
+    border:2px;
+    border-style:solid;
+}
+#smallbox{
+    width:145px;
+    height:140px;
+     border:2px;
+    border-style:solid;
+}
+#goodbox{
+    width:145px;
+    height:147px;
+     border:2px;
+    border-style:solid;
+}
+#littlebox{
+    width:90px;
+    height:145px;
+    border:2px;
+    border-style:solid;
+}
+.red {
+    background-color: red;   
+}
+.blue {
+    background-color: blue; 
+}
+.yellow {
+    background-color: yellow;   
+}
+.black {
+    background-color: black;   
+}
+.green{
+    background-color:green;
+}
+.right {
+    float: right;
+}
+#divider1 {
+    height: 290px;
+    width: 10px;
+}
+.mediumbox {
+    width: 100px;
+    height: 140px;
+    border:2px;
+    border-style:solid;
+    
+}
+
+#divider2 {
+    height: 10px;
+    width: 100px;
+}
+#divider3{
+    height: 10px;
+    width: 110px;
+}
+#divider4{
+    height:110px;
+    width:10px;
+    
+
+}
+#middlerow
+{
+    height:110px;
+    width:400px;
+    
+}
+#bottomleft
+{
+ height:110px;
+ width:90px;
+}
